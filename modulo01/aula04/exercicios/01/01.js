@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const lerArquivo = () => {
     const promise = new Promise((resolver, rejeitar) => {
-        fs.readFile('./usuarios.json', 'utf-8', (erro, dados) => {
+        fs.readFile('../usuarios.json', 'utf-8', (erro, dados) => {
             if (erro) return rejeitar(erro.message);
 
             return resolver(JSON.parse(dados));
