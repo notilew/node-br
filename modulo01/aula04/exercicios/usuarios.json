@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "wellington",
+        "usuario": "wellington-bhmg",
+        "senha": "123",
+        "email": "wellington-bhmg@hotmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "palloma",
+        "usuario": "palloma-bhmg",
+        "senha": "321",
+        "email": "palloma-bhmg@hotmail.com"
+    },
+    {
+        "id": 3,
+        "nome": "maria",
+        "usuario": "maria-bhmg",
+        "senha": "456",
+        "email": "maria-bhmg@hotmail.com"
+    },
+    {
+        "id": 4,
+        "nome": "jose",
+        "usuario": "jose-bhmg",
+        "senha": "654",
+        "email": "jose-bhmg@hotmail.com"
+    },
+    {
+        "id": 5,
+        "nome": "isis",
+        "usuario": "isis-bhmg",
+        "senha": "789",
+        "email": "isis-bhmg@hotmail.com"
+    }
+]
